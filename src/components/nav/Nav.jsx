@@ -3,7 +3,7 @@ import React from "react";
 export default function Nav() {
   return (
     <>
-      <h1>Dennis Law</h1>
+      <h1>Nav</h1>
     </>
   );
 }
